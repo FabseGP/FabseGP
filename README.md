@@ -1,8 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Fabse!</h3>
 
 
-
-<br />
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ciwgweZDnUydJShj6H/giphy.gif" />
