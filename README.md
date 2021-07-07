@@ -12,4 +12,4 @@
 
 
 ### <i class="fas fa-smile-wink"></i> Puzzle Icon
-{: #puzzle}
+{: #smile}
