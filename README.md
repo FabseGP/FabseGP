@@ -7,13 +7,6 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
- 
- Services provided by Fabse Inc.; any fraudulent behavior will not go unnoticed! 
-
-Though any puns is welcomed on our upcoming pun-site, which collects the best of the best' puns in existence :)
-
-
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ciwgweZDnUydJShj6H/giphy.gif" />
 
 **Notice**
