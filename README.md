@@ -14,8 +14,6 @@
 ### <i class="fas fa-smile-wink"></i> Puzzle Icon
 {: #smile}
 
-<iframe src="https://embed.lottiefiles.com/animation/60435"></iframe>
-
 <figure class="video_container">
-  <iframe src="https://embed.lottiefiles.com/animation/60435"> frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://embed.lottiefiles.com/animation/60435" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
