@@ -1,5 +1,9 @@
 ![Image description here](https://raw.githubusercontent.com/BharathKumarS/BharathKumarS/master/Bharath-Img_Intro.gif "Welcome to my GitHub")
-## I'm an Aspiring Data Scientist with a strong analytical background, and 4+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions. #The_Bharatha <br>
+## Services provided by Fabse Inc.; any fraudulent behavior will not go unnoticed! 
+
+## Though any puns is welcomed on our upcoming pun-site, which collects the best of the best' puns in existence :)
+
+a <br>
 
 ## I enjoy writing technical tutorial blog articles, Participating in Coding contests, Solving Python, and SQL challenges on LeetCode and HackerRank. <br>
 
