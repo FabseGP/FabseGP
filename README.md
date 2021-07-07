@@ -3,10 +3,6 @@
 
 ## Though any puns is welcomed on our upcoming pun-site, which collects the best of the best' puns in existence :)
 
-a <br>
-
-## I enjoy writing technical tutorial blog articles, Participating in Coding contests, Solving Python, and SQL challenges on LeetCode and HackerRank. <br>
-
 > ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my preferred tech stack to learn, explore, practice Machine Learning. <br> <br>
 
 <table class='tg'>
