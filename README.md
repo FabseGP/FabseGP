@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @FabseGP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Services provided by Fabse Inc.; any fraudulent behavior will not go unnoticed! 
 
-<!---
-FabseGP/FabseGP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Though any puns is welcomed on our upcoming pun-site, which collects the best of the best' puns in existence :)
+
