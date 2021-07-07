@@ -15,3 +15,7 @@
 {: #smile}
 
 <iframe src="https://embed.lottiefiles.com/animation/60435"></iframe>
+
+<figure class="video_container">
+  <iframe src="https://embed.lottiefiles.com/animation/60435"> frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
