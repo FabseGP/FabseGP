@@ -13,3 +13,5 @@
 
 ### <i class="fas fa-smile-wink"></i> Puzzle Icon
 {: #smile}
+
+<iframe src="https://embed.lottiefiles.com/animation/60435"></iframe>
