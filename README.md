@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">,  I'm Fabse!</h3>
 
-<h3 title="hehehe"> Hey <img src="ezgif.com-gif-maker.gif" width="30px">,  I'm Fabse!</h3>
+<h3 title="hehehe"> Hey <img src="Waving_hand.gif" width="30px">,  I'm Fabse!</h3>
 
 
 <br />
