@@ -11,5 +11,5 @@
 - 💬 Though any puns is welcomed on our upcoming pun-site, which collects the best of the best' puns in existence :)
 
 
-### <<i class="fas fa-smile-wink"></i>> Puzzle Icon
+### <i class="fas fa-smile-wink"></i> Puzzle Icon
 {: #puzzle}
