@@ -61,7 +61,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -152,21 +152,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="242.2303959081638" height="8" fill="#555555"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="242.24215693153437" height="8" fill="#555555"/>
             
-              <rect mask="url(#languages-bar)" x="242.2303959081638" y="0" width="115.69885804242638" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="242.24215693153437" y="0" width="115.70447557431493" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="357.9292539505902" y="0" width="56.68297851365621" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="357.9466325058493" y="0" width="56.685730644876216" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="414.6122324642464" y="0" width="16.415101079670595" height="8" fill="#dea584"/>
+              <rect mask="url(#languages-bar)" x="414.63236315072555" y="0" width="16.39356368200637" height="8" fill="#dea584"/>
             
-              <rect mask="url(#languages-bar)" x="431.027333543917" y="0" width="11.67832721959782" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="431.02592683273195" y="0" width="11.678894237947619" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="442.70566076351486" y="0" width="10.204986530637902" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="442.70482107067954" y="0" width="10.205482013810578" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="452.91064729415274" y="0" width="3.8018158944097533" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="452.9103030844901" y="0" width="3.8020004841488615" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="456.7124631885625" y="0" width="3.287536811437516" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="456.71230356863896" y="0" width="3.2876964313610437" height="8" fill="#ededed"/>
             
           </svg>
         
@@ -499,7 +499,7 @@
           </h2>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            2448 Commits
+            2451 Commits
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -650,7 +650,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 28 Jul 2025, 08:29:15 (timezone Europe/Copenhagen) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 28 Jul 2025, 14:38:45 (timezone Europe/Copenhagen) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
